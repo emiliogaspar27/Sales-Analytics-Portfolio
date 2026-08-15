@@ -11,3 +11,7 @@ Análise de desempenho comercial através de indicadores e visualizações inter
 
 ### 2. Superstore Data Analysis
 Projeto completo de ETL e análise de dados utilizando o dataset Superstore, incluindo limpeza de dados, cálculo de métricas de negócio e construção de dashboard executivo.
+
+### 3. Análise Financeira — Orçado vs. Realizado
+
+Análise financeira de uma empresa durante o ano de 2019, utilizando Excel para exploração dos dados, comparação entre valores orçados e realizados, análise de desvios, estruturação da DRE e desenvolvimento de indicadores e visualizações para apoio à tomada de decisão.
